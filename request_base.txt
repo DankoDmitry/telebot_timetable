@@ -1,0 +1,8 @@
+2022-11-07 10:40:53;1047645800;dankodmitry;/group;
+2022-11-07 10:41:23;1047645800;dankodmitry;/start;
+2022-11-07 10:41:31;1047645800;dankodmitry;/group ÍÏÌבה-01-21;
+2022-11-07 10:42:13;1047645800;dankodmitry;/group ÍÏÌבה-01-21;
+2022-11-07 10:42:41;1047645800;dankodmitry;/help;
+2022-11-07 10:42:53;1047645800;dankodmitry;/lesson;
+2022-11-07 10:42:56;1047645800;dankodmitry;/lesson_tomorrow;
+2022-11-07 10:57:53;1047645800;dankodmitry;/lesson_tomorrow;
